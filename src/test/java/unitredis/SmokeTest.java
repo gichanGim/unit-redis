@@ -1,4 +1,4 @@
-package io.github.gichangim.unitredis;
+package unitredis;
 
 import org.junit.jupiter.api.Test;
 

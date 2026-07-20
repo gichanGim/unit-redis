@@ -1,4 +1,4 @@
-package io.github.gichangim.unitredis;
+package unitredis;
 
 /**
  * unit-redis 진입점.
