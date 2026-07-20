@@ -19,7 +19,7 @@
 ```
 ┌─────────────────────────────┐
 │  RESP Server Layer          │  TCP 소켓, RESP2 파서/직렬화,
-│  (redis-cli 호환)            │  connection-per-virtual-thread
+│  (redis-cli 호환)           │  connection-per-virtual-thread
 ├─────────────────────────────┤
 │  Command Processor          │  명령 디스패치, 단일 처리 스레드 + 커맨드 큐
 ├─────────────────────────────┤
