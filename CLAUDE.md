@@ -53,6 +53,7 @@ Java로 인메모리 데이터베이스(미니 Redis)를 밑바닥부터 직접 
 src/main/java/unitredis/   구현 코드
 src/test/java/unitredis/   단위 테스트 · (Phase 2+) 오라클 차분 테스트
 docs/git-convention.md     Git 컨벤션 (커밋·브랜치·PR 규칙)
+docs/architecture.md       아키텍처 결정 문서 — 설계 관련 작업 전 필독 (구조도·의존 규칙·재검토 체크포인트)
 .github/                   이슈/PR 템플릿
 ```
 
